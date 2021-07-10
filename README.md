@@ -1,8 +1,7 @@
 # Hi, I'm Andy.
 Student and programmer based in Los Angeles.
 
-\*Currently\* Working on a webpage and waether-app using React. <br/>
-Intersted in CyberSecurity.
+Thats it for now.
 ## reach me here:
 jdlc.andy@gmail.com<br/>
 333xandy#5903
