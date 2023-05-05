@@ -1,7 +1,6 @@
 # Hi, I'm Andy.
 Software engineer based in Los Angeles.
 
-Thats it for now.
 ## reach me here:
 jdlc.andy@gmail.com <br>
 www.linkedin.com/in/ajdl
